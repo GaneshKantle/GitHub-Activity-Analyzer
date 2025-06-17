@@ -9,7 +9,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) web application that visual
 
 ## 📸 Demo
 
-> 🔗 [Live Preview](#)
+> 🔗 [Live Preview](https://github-activity-analyzerr.vercel.app/)
 > 📦 [Frontend Source Code](./client)  
 > 🔧 [Backend Source Code](./server)
 
